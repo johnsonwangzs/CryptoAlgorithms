@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Code/ClassicalCrptoAlgorithm/.idea/ClassicalCrptoAlgorithm.iml" filepath="$PROJECT_DIR$/../Code/ClassicalCrptoAlgorithm/.idea/ClassicalCrptoAlgorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/CryptoAlgorithms.iml" filepath="$PROJECT_DIR$/.idea/CryptoAlgorithms.iml" />
     </modules>
   </component>
