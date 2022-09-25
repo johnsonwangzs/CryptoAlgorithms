@@ -63,5 +63,4 @@ class AffineCipher:
 
 # Test encryption and decryption
 affineCipher = AffineCipher(7, 10)
-print(affineCipher.encrypt("Crypt0graphy"))
-print(affineCipher.decrypt("Yzwln0azklhw"))
+print(affineCipher.decrypt(affineCipher.encrypt("Crypt0graphy")))

@@ -46,5 +46,4 @@ class VigenereCipher:
 
 # Test encryption and decryption
 vigenereCipher = VigenereCipher("interesting")
-print(vigenereCipher.encrypt("zhonghuaminzuweidafuxing"))
-print(vigenereCipher.decrypt("huhrxlmtuvthhpizhsyckovt"))
+print(vigenereCipher.decrypt(vigenereCipher.encrypt("zhonghuaminzuweidafuxing")))

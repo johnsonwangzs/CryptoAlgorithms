@@ -24,3 +24,5 @@ def extended_gcd(a, b):
         y = xtmp - int(a // b) * ytmp
         return gcd, x, y
 
+
+def
